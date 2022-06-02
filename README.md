@@ -1,2 +1,2 @@
 # Repositório DIO
-Desafio de projeto sobre Gti/GtiHub
+Repositório criado para o Desafio de Projeto
