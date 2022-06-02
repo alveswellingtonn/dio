@@ -1,0 +1,17 @@
+windows comando								linux comand
+
+dir -> tras uma lista de diretorios dentro da pasta q estamos		ls -> tras uma lista de diretorios dentro da pasta q estamos
+
+cd / -> muda a base do diretorio					cd / -> muda a base do diretorio
+
+cd.. ->retorna uma base no diretorio					cd.. ->retorna uma base no diretorio
+
+cls -> limpa a tela do terminal						clear -> limpa a tela do terminal
+
+mkdir -> cria uma pasta novo						mkdir -> cria uma pasta novo
+
+echo hello > hello.txt -> cria um novo arquivo				echo hello > hello.txt -> cria um novo arquivo
+
+del workspace -> deleta um arquivo da pasta workspace			rm -rf -> deleta a pasta e demais conteudos dentro dela
+
+rmdir workspace /s /q -> deleta a pasta com seus arquivos
