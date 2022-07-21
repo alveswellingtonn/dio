@@ -1,0 +1,5 @@
+package com.wellington.springsecurityjwt.service;
+
+public class UserService {
+
+}

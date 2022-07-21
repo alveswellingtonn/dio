@@ -1,0 +1,5 @@
+package wellington.labpadroesprojetospring.service.impl;
+
+public class ClienteServiceImpl {
+
+}

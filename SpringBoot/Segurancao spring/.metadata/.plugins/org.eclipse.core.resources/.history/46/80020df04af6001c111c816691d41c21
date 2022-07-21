@@ -1,0 +1,5 @@
+package com.wellington.diospringsecurity.repository;
+
+public interface UserRepository {
+
+}

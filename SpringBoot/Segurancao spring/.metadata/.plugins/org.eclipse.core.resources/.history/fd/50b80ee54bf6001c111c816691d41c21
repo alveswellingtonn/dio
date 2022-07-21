@@ -1,0 +1,5 @@
+package com.wellington.diospringsecurity.config;
+
+public class SecurityDataBaseService {
+
+}

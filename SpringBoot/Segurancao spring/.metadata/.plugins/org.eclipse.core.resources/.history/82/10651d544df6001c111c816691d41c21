@@ -1,0 +1,5 @@
+package com.wellington.diospringsecurity.init;
+
+public class StartApplication {
+
+}

@@ -1,0 +1,5 @@
+package wellington.labpadroesprojetospring.controller;
+
+public class ClienteRestController {
+
+}

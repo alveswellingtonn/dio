@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.wellington.springsecurityjwt.security.SecurityConfig"/>
+    <fullyQualifiedTypeName name="com.wellington.springsecurityjwt.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="com.wellington.springsecurityjwt.dto.Sessao"/>
+    <fullyQualifiedTypeName name="com.wellington.springsecurityjwt.dto.Login"/>
+    <fullyQualifiedTypeName name="com.wellington.springsecurityjwt.model.User"/>
+    <fullyQualifiedTypeName name="com.wellington.springsecurityjwt.security.JWTObject"/>
+    <fullyQualifiedTypeName name="com.wellington.springsecurityjwt.security.JWTCreator"/>
+</qualifiedTypeNameHistroy>

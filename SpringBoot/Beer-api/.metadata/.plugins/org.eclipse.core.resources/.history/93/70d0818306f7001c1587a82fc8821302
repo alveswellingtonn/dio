@@ -1,0 +1,5 @@
+package com.wellington.beerapi.dto;
+
+public class BeerDTO {
+
+}

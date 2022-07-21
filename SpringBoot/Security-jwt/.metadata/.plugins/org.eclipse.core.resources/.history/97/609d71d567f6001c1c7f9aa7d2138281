@@ -1,0 +1,5 @@
+package com.wellington.springsecurityjwt.dto;
+
+public class Login {
+
+}

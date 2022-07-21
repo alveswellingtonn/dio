@@ -1,0 +1,5 @@
+package com.wellington.springsecurityjwt.security;
+
+public class JWTCreator {
+
+}

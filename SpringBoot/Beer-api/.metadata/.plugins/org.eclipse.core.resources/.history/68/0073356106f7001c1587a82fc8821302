@@ -1,0 +1,5 @@
+package com.wellington.beerapi.controller;
+
+public class BeerController {
+
+}

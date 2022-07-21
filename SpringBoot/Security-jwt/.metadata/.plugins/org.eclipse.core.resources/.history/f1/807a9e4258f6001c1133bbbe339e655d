@@ -1,0 +1,5 @@
+package com.wellington.springsecurityjwt.model;
+
+public class User {
+
+}

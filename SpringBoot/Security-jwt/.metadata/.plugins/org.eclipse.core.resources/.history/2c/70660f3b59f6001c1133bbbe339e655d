@@ -1,0 +1,5 @@
+package com.wellington.springsecurityjwt.controller;
+
+public class UserController {
+
+}

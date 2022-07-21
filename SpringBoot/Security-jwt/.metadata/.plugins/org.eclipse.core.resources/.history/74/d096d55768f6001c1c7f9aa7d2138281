@@ -1,0 +1,8 @@
+package com.wellington.springsecurityjwt.dto;
+
+public class Login {
+	private String username;
+	private String password;
+	
+	//getters e setters
+}

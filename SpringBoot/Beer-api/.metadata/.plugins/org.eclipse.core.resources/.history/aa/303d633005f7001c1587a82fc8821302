@@ -1,0 +1,5 @@
+package com.wellington.beerapi.exception;
+
+public class BeerAlreadyRegisteredException {
+
+}

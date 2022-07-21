@@ -1,0 +1,5 @@
+package com.wellington.beerapi.entity;
+
+public class Beer {
+
+}

@@ -1,0 +1,5 @@
+package wellington.labpadroesprojetospring.model;
+
+public class ClienteRepository {
+
+}

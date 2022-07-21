@@ -1,0 +1,5 @@
+package com.wellington.diospringsecurity.model;
+
+public class User {
+
+}
